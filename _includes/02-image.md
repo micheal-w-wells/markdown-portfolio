@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![BANANA](https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg?odnBound=460)
